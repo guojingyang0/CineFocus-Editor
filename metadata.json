@@ -1,0 +1,5 @@
+{
+  "name": "CineFocus Editor",
+  "description": "A web-based simulation of a Cinematic Mode video editor, allowing depth-of-field adjustments, focus point management, and timeline editing.",
+  "requestFramePermissions": []
+}
