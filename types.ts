@@ -27,3 +27,8 @@ export interface VideoMetadata {
   width: number;
   height: number;
 }
+
+export enum UIMode {
+  MOBILE = 'MOBILE',
+  NLE = 'NLE', // Desktop/iPad Pro nonlinear editing interface
+}
