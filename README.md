@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="1200" height="475" alt="CineFocus Editor Banner" src="./assets/readme-banner.png" />
+  <img width="395" height="605" alt="CineFocus Editor Banner" src="./assets/readme-banner.png" />
 </div>
 
 # CineFocus Editor
 
-一个面向“电影模式后期重调”场景的视频编辑原型。它把景深模拟、焦点关键帧、时间线定位和参数化编辑组合成一套可交互工作流，让用户可以在视频拍摄之后重新指定焦点主体、调整虚化强度，并在移动端和桌面 NLE 两种界面模式下完成同一套编辑任务。
+一个面向“电影模式后期重调”场景的视频编辑原型。支持景深模拟、焦点关键帧、时间线seek和参数化编辑，让用户可以在视频拍摄之后重新指定焦点主体、调整虚化强度，此 Demo 绘制了移动端和桌面 NLE 两种界面模式。
 
 ## 产品定位
 
